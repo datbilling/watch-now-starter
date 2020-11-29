@@ -24,7 +24,7 @@
             service: 'Netflix',
             androidPackageNames: ['com.netflix.mediaclient', 'com.netflix.ninja']
         },
-        {
+        /*{
             service: 'Disney+',
             androidPackageNames: ['com.disney.disneyplus']
         },
@@ -47,12 +47,12 @@
         {
             service: 'Google TV',
             androidPackageNames: ['com.google.android.videos']
-        },
+        },*/
         {
             service: 'Prime Video',
             androidPackageNames: ['com.amazon.avod.thirdpartyclient', 'com.amazon.amazonvideo.livingroom', 'com.amazon.amazonvideo.livingroom.firetv']
         },
-        {
+        /*{
             service: 'HBO GO',
             androidPackageNames: ['com.hbo.go']
         },
@@ -63,7 +63,7 @@
         {
             service: 'VUDU',
             androidPackageNames: ['air.com.vudu.air.DownloaderTablet', 'com.nvidia.vuduapp']
-        },
+        },*/
         {
             service: 'Youtube',
             androidPackageNames: ['com.google.android.youtube', 'com.google.android.youtube.tv', 'com.amazon.firetv.youtube', 'com.google.android.youtube.googletv', 'com.google.android.youtube.googletv']
